@@ -1,0 +1,11 @@
+Credentials cache: API:8EAE7B28-65B0-4E18-9D3A-11A830F852E9
+        Principal: mcoet@42LYON.FR
+
+  Issued                Expires               Principal
+Aug 10 13:37:53 2020  Aug 10 23:37:53 2020  krbtgt/42LYON.FR@42LYON.FR
+
+Credentials cache: API:8EAE7B28-65B0-4E18-9D3A-11A830F852E9
+        Principal: mcoet@42LYON.FR
+
+  Issued                Expires             Flags    Principal
+Aug 10 13:37:53 2020  Aug 10 23:37:53 2020  FPIA   krbtgt/42LYON.FR@42LYON.FR
